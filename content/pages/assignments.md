@@ -37,7 +37,7 @@ PSet 1
 MATLAB® Programming, Chapter 10, Problems 1-5
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw1_soln))
+([PDF]({{< baseurl >}}/resources/hw1_soln))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -67,7 +67,7 @@ PSet 3
 Nonlinear Algebraic Systems ([PDF]({{< baseurl >}}/resources/f05_hw3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw3_soln_rev))
+([PDF]({{< baseurl >}}/resources/hw3_soln_rev))
 {{< tdclose >}}
 {{< tdopen >}}
 calc\_f\_ex1.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/calc_f_ex1.m)), CSTR\_2D\_NAE.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/CSTR_2D_NAE.m)), CSTR\_SS\_ex1.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/CSTR_SS_ex1.m)), Newton\_2D\_test.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Newton_2D_test.m)), polycond\_CSTR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/polycond_CSTR.m)), polymer\_flow\_1D.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/polymer_flow_1D.m)), reduced\_Newton.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/reduced_Newton.m)), search\_bifurcation.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/search_bifurcation.m))
@@ -127,7 +127,7 @@ PSet 7
 Boundary Value Problems ([PDF]({{< baseurl >}}/resources/f05_hw7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/hw7_soln))  
+([PDF 1]({{< baseurl >}}/resources/hw7_soln))  
   
 ([PDF 2]({{< baseurl >}}/resources/hw7_soln_part2))
 {{< tdclose >}}
@@ -159,7 +159,7 @@ PSet 9
 Fitting a Model to a Single Set of Data ([PDF]({{< baseurl >}}/resources/f05_hw9))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw9_soln))
+([PDF]({{< baseurl >}}/resources/hw9_soln))
 {{< tdclose >}}
 {{< tdopen >}}
 batch\_kinetics\_dynamics\_ex.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/batch_kinetics_dynamics_ex.m)), Bayes\_1D\_HPD\_MR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_1D_HPD_MR.m)), Bayes\_1D\_HPD\_SR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_1D_HPD_SR.m)), Bayes\_2D\_HPD\_MR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_2D_HPD_MR.m)), Bayes\_2D\_HPD\_SR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_2D_HPD_SR.m)), Bayes\_MCMC\_1Dmarginal\_MR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_1Dmarginal_MR.m)), Bayes\_MCMC\_1Dmarginal\_MRSL.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_1Dmarginal_MRSL.m)), Bayes\_MCMC\_1Dmarginal\_SR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_1Dmarginal_SR.m)), Bayes\_MCMC\_2Dmarginal\_MR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_2Dmarginal_MR.m)), Bayes\_MCMC\_2Dmarginal\_MRSL.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_2Dmarginal_MRSL.m)), Bayes\_MCMC\_2Dmarginal\_SR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_2Dmarginal_SR.m)), Bayes\_MCMC\_pred\_MR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_pred_MR.m)), Bayes\_MCMC\_pred\_MRSL.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_pred_MRSL.m)), Bayes\_MCMC\_pred\_SR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/Bayes_MCMC_pred_SR.m)), calc\_g\_1Dinterval.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/calc_g_1Dinterval.m)), calc\_MRSL\_posterior.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/calc_MRSL_posterior.m)), calc\_yhat\_kinetic\_ex1.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/calc_yhat_kinetic_ex1.m)), calc\_yhat\_linear\_model.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/calc_yhat_linear_model.m)), calc\_Yhat\_reaction\_ex\_dynamic\_MR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/calc_Yhat_reaction_ex_dynamic_MR.m)), sim\_anneal\_MR.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/sim_anneal_MR.m)), sim\_anneal\_MRSL.m ([M](/courses/chemical-engineering/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/assignments/sim_anneal_MRSL.m))

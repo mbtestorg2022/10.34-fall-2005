@@ -9,7 +9,7 @@ Review materials courtesy of Mark Styczynski and Ben Wang, Course TAs. Used with
 Review Materials
 ----------------
 
-*   Chapters 7 and 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ch7ch8_review))
+*   Chapters 7 and 8 ([PDF]({{< baseurl >}}/resources/ch7ch8_review))
     
 *   Exam 2 Review Session ([PDF]({{< baseurl >}}/resources/review2_compiled))
     
