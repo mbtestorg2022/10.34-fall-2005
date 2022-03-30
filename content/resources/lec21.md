@@ -6,6 +6,7 @@ description: This resource provides information about a procedure that calculate
   Dankwert's boundary conditions at the inlet and outlet of a 1-D tubular reactor.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/ea848febe671baf3e33db25abc2ff8b5_lec21.pdf
 file_type: application/pdf
+parent_uid: 8f7a6c3f-ae8e-d368-a734-bbe5d06c21b7
 resourcetype: Document
 title: lec21.pdf
 uid: ea848feb-e671-baf3-e33d-b25abc2ff8b5

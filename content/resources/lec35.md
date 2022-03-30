@@ -7,6 +7,7 @@ description: This resource provides information about a  MATLAB function perform
   values used for the confidence interval and the number of degrees of freedom.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/619deec1c9e000365276243d75ad110c_lec35.pdf
 file_type: application/pdf
+parent_uid: 8f7a6c3f-ae8e-d368-a734-bbe5d06c21b7
 resourcetype: Document
 title: lec35.pdf
 uid: 619deec1-c9e0-0036-5276-243d75ad110c

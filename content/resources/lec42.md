@@ -5,6 +5,7 @@ description: This resource provides information about a  MATLAB m-file predicts 
   reactions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/7305364ae2ba1da3f73f7927e28d844d_lec42.pdf
 file_type: application/pdf
+parent_uid: 8f7a6c3f-ae8e-d368-a734-bbe5d06c21b7
 resourcetype: Document
 title: lec42.pdf
 uid: 7305364a-e2ba-1da3-f73f-7927e28d844d

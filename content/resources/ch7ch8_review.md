@@ -9,6 +9,7 @@ description: This resource provides information about frequentist statistics, Ba
   and generating confidence intervals.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/3525fc209b110e1aa49303d9fbd0b871_ch7ch8_review.pdf
 file_type: application/pdf
+parent_uid: df92df30-f9d1-d59c-9c77-85b077953634
 resourcetype: Document
 title: ch7ch8_review.pdf
 uid: 3525fc20-9b11-0e1a-a493-03d9fbd0b871

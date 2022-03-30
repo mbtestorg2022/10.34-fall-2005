@@ -5,6 +5,7 @@ description: This resource provides information about special form that LU decom
   Cholesky decomposition.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/f2e0190b9613966b6d249dc85b47aa5b_lecturenotes142.pdf
 file_type: application/pdf
+parent_uid: 8f7a6c3f-ae8e-d368-a734-bbe5d06c21b7
 resourcetype: Document
 title: lecturenotes142.pdf
 uid: f2e0190b-9613-966b-6d24-9dc85b47aa5b
